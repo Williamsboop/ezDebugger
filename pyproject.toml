@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ezDebugger"
-version = "0.1.1f"
+version = "0.1.1g"
 description = "A lightweight debugging toolkit with function call tracing and logging decorators"
 readme = "README.md"
 license = {text = "MIT"}
