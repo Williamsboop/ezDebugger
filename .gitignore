@@ -48,6 +48,9 @@ coverage.xml
 # Virtual environments
 venv/
 ENV/
+
+# Publishing guide (internal use only)
+PUBLISHING.md
 env/
 .venv
 
@@ -72,3 +75,6 @@ dmypy.json
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Build/Publish Scripts
+release.ps1
