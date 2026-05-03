@@ -2,6 +2,6 @@
 
 from .debugger import Logger
 
-__version__ = "0.1.1e"
+__version__ = "0.1.1f"
 __author__ = "Cameron Williams"
 __all__ = ["Logger"]
